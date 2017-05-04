@@ -1,0 +1,75 @@
+*{padding: 0; margin: 0;}
+.profile-all{ max-width:1280px; margin:0px auto; display: flex; flex-direction: row; justify-content: center; align-items: center; flex-wrap:wrap; height:650px; }
+
+.profile-content {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    margin: 0px 5px;
+    
+}
+
+.container-profile {
+    padding: 0 16px;
+}
+
+.description {
+    color: grey;
+    font-size: 18px;
+}
+        
+.container-profile h1{ border-bottom: 1px solid #d3d3d3; }
+.profile-content button{ background: #272727; width:50%; padding:10px 15px; color:white; border:0px; cursor:pointer; }
+.profile-content button:hover{ background:#B4B3B3; }        
+
+
+/*Button*/
+        
+        .Open-button{ border-radius: 4px; background: #1f93a3; color:white; padding: 15px; border:1px solid #1f93a3; font-family: arial; transition: all .4s; display: inline-block; font-size: 28px; cursor: pointer; margin: 2px; }
+
+.button-close{  background: #C70D0D; color:white; padding: 15px; float:right;  font-family: arial; margin-top: -57px; margin-right:-10px;}
+    .button-close:hover{cursor:pointer;}
+
+.display-container{  position:absolute; background: #059B55; color: white; padding: 10px;  font-family: arial; }
+
+.fade { -webkit-animation-name: fade; -webkit-animation-duration: 2s; animation-name: fade; animation-duration: 2s; }
+
+@-webkit-keyframes fade { from {opacity: .4} to {opacity: 1} }
+
+@keyframes fade { from {opacity: .4}  to {opacity: 1} }
+            
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  text-align: center;
+  font-size: 20px;
+  padding: 20px;
+  transition: all 0.5s;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: &#39;\00bb&#39;;
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
