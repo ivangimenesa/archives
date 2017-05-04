@@ -1,7 +1,7 @@
 *{padding: 0; margin: 0;}
 
-.profile-all{ max-width:1280px; margin:0px auto; display: flex; flex-direction: row; justify-content: center; align-items: center; 
- flex-wrap:wrap; min-height:700px;  max-width:1440px; }
+.profile-all{ max-width:1440px; margin:0px auto; display: flex; flex-direction: row; justify-content: center; align-items: center; 
+ flex-wrap:wrap; height:100%; }
 
 .profile-content {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -13,7 +13,7 @@
     }
 
 .container-profile {
-    padding: 0 16px;
+    padding: 5px 16px;
 }
 
 .description {
@@ -23,7 +23,7 @@
 }
         
 .container-profile h1{ border-bottom: 1px solid #d3d3d3; }
-.profile-content button{ background: #272727; width:60%; padding:10px 15px; color:white; border:0px; cursor:pointer; }
+.profile-content button{ background: #272727; width:60%; padding:7px 15px; color:white; border:0px; cursor:pointer; }
 .profile-content button:hover{ background:#B4B3B3; }        
 
 
