@@ -1,4 +1,5 @@
 *{padding: 0; margin: 0;}
+
 .profile-all{ max-width:1280px; margin:0px auto; display: flex; flex-direction: row; justify-content: center; align-items: center; flex-wrap:wrap; height:650px; }
 
 .profile-content {
@@ -8,8 +9,7 @@
     text-align: center;
     font-family: arial;
     margin: 0px 5px;
-    
-}
+    }
 
 .container-profile {
     padding: 0 16px;
@@ -27,10 +27,10 @@
 
 /*Button*/
         
-        .Open-button{ border-radius: 4px; background: #1f93a3; color:white; padding: 15px; border:1px solid #1f93a3; font-family: arial; transition: all .4s; display: inline-block; font-size: 28px; cursor: pointer; margin: 2px; }
+.Open-button{ border-radius: 4px; background: #1f93a3; color:white; padding: 15px; border:1px solid #1f93a3; font-family: arial; transition: all .4s; display: inline-block; font-size: 28px; cursor: pointer; margin: 2px; }
 
 .button-close{  background: #C70D0D; color:white; padding: 15px; float:right;  font-family: arial; margin-top: -57px; margin-right:-10px;}
-    .button-close:hover{cursor:pointer;}
+.button-close:hover{cursor:pointer;}
 
 .display-container{  position:absolute; background: #059B55; color: white; padding: 10px;  font-family: arial; }
 
@@ -57,12 +57,12 @@
 }
 
 .button span:after {
-  content: &#39;\00bb&#39;;
+  content:"»";
   position: absolute;
   opacity: 0;
   top: 0;
   right: -20px;
-  transition: 0.5s;
+  transition: 0.5s; 
 }
 
 .button:hover span {
