@@ -1,0 +1,10 @@
+.form-container{ background:#248EBF; margin:15px 0px; height:650px; display:flex; flex-direction:column; justify-content:center; color:white; }
+
+.title-contact{ font-family:&quot;Segoe UI&quot;,Arial,sans-serif; font-weight:400; 
+margin:10px 0; font-size:50px; border-bottom:1px solid #ccc; }
+
+.button-form{ border:none;display:inline-block; outline:0; padding:10px 16px; vertical-align:middle; overflow:hidden; text-decoration:none; color:inherit; background-color:inherit;text-align:center; cursor:pointer; white-space:nowrap; }
+
+.box-input{ padding:8px; display:block; border:none; border-bottom:1px solid #ccc; width:100%; margin:15px 5px; width:98%; }
+
+.form-container{ padding:5px 16px; }
