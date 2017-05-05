@@ -1,0 +1,17 @@
+/*menu-all*/
+.menu { width: 100%; background-color: #272727; overflow: auto; }
+
+.menu a { float: left; text-align: center; width: 25%; padding: 10px 0px ; transition: all 0.3s ease; color: white;font-size: 50px;
+height: 60px; }
+.menu a:hover { background-color: #066FB5; }
+
+.active { background-color: #317FB6; }
+
+        /*images*/
+        .fav-home{ background: url(https://1.bp.blogspot.com/-cIEJVfF37pc/WQu1iK8KKiI/AAAAAAAAAHY/PZJnFSngBpY8aVjgjKYz8AofAHVHiqEbACLcB/s1600/ncBB5rpei.png); background-repeat: no-repeat; background-size:50px;  position: relative; padding:0px 25px; background-position:0px;}
+
+        .fav-about{ background: url(https://3.bp.blogspot.com/-TAd2BVd0Kyc/WQu1MZrVojI/AAAAAAAAAHU/r-YqP94MLJwm5f7d159nH6Ga7LRxKBncwCLcB/s1600/white-about-256.png); background-repeat: no-repeat; background-size:50px;  position: relative; padding:0px 25px; background-position:0px;}
+
+        .fav-email{ background: url(https://4.bp.blogspot.com/-Op03OCFMXdI/WQu1tzWFtEI/AAAAAAAAAHc/beTaoFxoXxE3LHDmVGGSoycWqnsJrmJXQCLcB/s1600/email_icon.png); background-repeat: no-repeat; background-size:50px;  position: relative; padding:0px 25px; background-position:0px;}
+
+        .fav-place{ background: url(https://1.bp.blogspot.com/-g-Zzmm2RK34/WQu2EToHmpI/AAAAAAAAAHg/iJEEs0a39YAp40ylYDMA5tEkVwHt-9ywQCLcB/s1600/map-object-blue-geo-point-512.png); background-repeat: no-repeat; background-size:50px; position: relative; padding:0px 25px; background-position:0px; }
