@@ -8,10 +8,14 @@ height: 60px; }
 .active { background-color: #317FB6; }
 
         /*images*/
-        .fav-home{ background: url(https://1.bp.blogspot.com/-cIEJVfF37pc/WQu1iK8KKiI/AAAAAAAAAHY/PZJnFSngBpY8aVjgjKYz8AofAHVHiqEbACLcB/s1600/ncBB5rpei.png); background-repeat: no-repeat; background-size:50px;  position: relative; padding:0px 25px; background-position:0px;}
+        .fav-home{ background: url(https://2.bp.blogspot.com/-m15HPyriXw0/WQzmO0nCXtI/AAAAAAAAAL8/JmTSBSxLlmAEK9BJ3meHEVcWcf9_38PIQCLcB/s1600/home-xxl.png); 
+background-repeat: no-repeat; background-size:50px;  position: relative; padding:0px 25px; background-position:0px;}
 
-        .fav-about{ background: url(https://3.bp.blogspot.com/-TAd2BVd0Kyc/WQu1MZrVojI/AAAAAAAAAHU/r-YqP94MLJwm5f7d159nH6Ga7LRxKBncwCLcB/s1600/white-about-256.png); background-repeat: no-repeat; background-size:50px;  position: relative; padding:0px 25px; background-position:0px;}
+        .fav-about{ background: url(https://4.bp.blogspot.com/-szzOK4J-oCo/WQzlzpqlzWI/AAAAAAAAALs/vHdruChzRSEChEz1k7SyffcRCUQFKoNZwCLcB/s320/about_icon.png); 
+background-repeat: no-repeat; background-size:50px;  position: relative; padding:0px 25px; background-position:0px;}
 
-        .fav-email{ background: url(https://4.bp.blogspot.com/-Op03OCFMXdI/WQu1tzWFtEI/AAAAAAAAAHc/beTaoFxoXxE3LHDmVGGSoycWqnsJrmJXQCLcB/s1600/email_icon.png); background-repeat: no-repeat; background-size:50px;  position: relative; padding:0px 25px; background-position:0px;}
+        .fav-email{ background: url(https://4.bp.blogspot.com/-yCIMcA2Hj8k/WQzlzoXkhLI/AAAAAAAAALw/oh5V9n8gFSAqg5KggVSEqK1T0xcWWZXKgCLcB/s320/mail.png); 
+background-repeat: no-repeat; background-size:50px;  position: relative; padding:0px 25px; background-position:0px;}
 
-        .fav-place{ background: url(https://1.bp.blogspot.com/-g-Zzmm2RK34/WQu2EToHmpI/AAAAAAAAAHg/iJEEs0a39YAp40ylYDMA5tEkVwHt-9ywQCLcB/s1600/map-object-blue-geo-point-512.png); background-repeat: no-repeat; background-size:50px; position: relative; padding:0px 25px; background-position:0px; }
+        .fav-place{ background: url(https://4.bp.blogspot.com/-bKigZk5TA9A/WQzmIZV8L5I/AAAAAAAAAL4/ZhaDwrBUNM8GfyB_1J3nG8M_PWLIdS-PwCLcB/s320/mapa.png); 
+background-repeat: no-repeat; background-size:50px; position: relative; padding:0px 25px; background-position:0px; }
