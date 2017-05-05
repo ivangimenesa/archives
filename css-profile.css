@@ -1,7 +1,7 @@
 *{padding: 0; margin: 0;}
 
 .profile-all{ max-width:1440px; margin:0px auto; display: flex; flex-direction: row; justify-content: space-around; align-items: center; 
- flex-wrap:wrap; min-height:700px; }
+ flex-wrap:wrap; min-height:700px; clear:both; }
 
 .profile-content {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
