@@ -13,12 +13,16 @@ background-repeat: no-repeat; background-size:50px;  position: relative; padding
 
         .fav-about{ background: url(https://4.bp.blogspot.com/-szzOK4J-oCo/WQzlzpqlzWI/AAAAAAAAALs/vHdruChzRSEChEz1k7SyffcRCUQFKoNZwCLcB/s320/about_icon.png); 
 background-repeat: no-repeat; background-size:50px;  position: relative; padding:0px 25px; background-position:0px;}
+        .fav-about a{ background-color: #FFD14F; }
 
         .fav-plan{ background: url(https://2.bp.blogspot.com/-wgef5n1Rfvg/WQ5KxvLxM4I/AAAAAAAAAMc/RruWAxYskPAESje3uZZz76inlQnpJhfGACLcB/s1600/icon-planning-white.png); 
 background-repeat: no-repeat; background-size:50px;  position: relative; padding:0px 25px; background-position:0px;}
+        .fav-plan a{ background-color: #3EBA09; }
 
         .fav-email{ background: url(https://4.bp.blogspot.com/-yCIMcA2Hj8k/WQzlzoXkhLI/AAAAAAAAALw/oh5V9n8gFSAqg5KggVSEqK1T0xcWWZXKgCLcB/s320/mail.png); 
 background-repeat: no-repeat; background-size:50px;  position: relative; padding:0px 25px; background-position:0px;}
+        .fav-email a{ background-color: #BA091E; }
 
         .fav-place{ background: url(https://4.bp.blogspot.com/-bKigZk5TA9A/WQzmIZV8L5I/AAAAAAAAAL4/ZhaDwrBUNM8GfyB_1J3nG8M_PWLIdS-PwCLcB/s320/mapa.png); 
 background-repeat: no-repeat; background-size:50px; position: relative; padding:0px 25px; background-position:0px; }
+        .fav-place a{ background-color: #7109E0; }
