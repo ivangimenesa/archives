@@ -1,7 +1,7 @@
 /*menu-all*/
-.menu { opacity:0; width:40px; height:100%; background:#272727; overflow: auto; position:fixed; display:flex; flex-direction:column;  }
-.menu:hover{ opacity:1;} 
-.menu a { text-align: center; width: 20%; padding: 10px 0px ; transition: all 0.3s ease; color: white; font-size: 50px;
+.menu { opacity:0; transition:all .4s; width:40px; height:100%; background:#272727; overflow: auto; position:fixed; display:flex; flex-direction:column;  }
+.menu:hover{ opacity:1; } 
+.menu a { text-align: center; padding: 10px 0px ; transition: all 0.3s ease; color: white; font-size: 50px;
 height: 60px; clear:both; }
 .menu a:hover { background-color: #066FB5; }
 
