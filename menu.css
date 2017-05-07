@@ -1,5 +1,5 @@
 /*menu-all*/
-.menu { width: 20%; background:#272727; overflow: auto; position:fixed; display:flex; flex-direction:column;  }
+.menu { width:auto; height:100%; background:#272727; overflow: auto; position:fixed; display:flex; flex-direction:column;  }
 
 .menu a { text-align: center; width: 20%; padding: 10px 0px ; transition: all 0.3s ease; color: white; font-size: 50px;
 height: 60px; clear:both; }
